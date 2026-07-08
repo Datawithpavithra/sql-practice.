@@ -1,0 +1,11 @@
+-- Day 1 SQL Practice
+
+SELECT NOW();
+
+SELECT 10 + 20;
+
+SELECT 'Hello SQL';
+
+CREATE DATABASE company_db;
+
+SHOW DATABASES;
